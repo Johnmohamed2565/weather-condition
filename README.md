@@ -18,7 +18,7 @@ api/OpenWeatherService.js: It contains the code related to the back-end of the a
 
 ⚡ Install
 Clone the repository:
-git clone https://github.com/Amin-Awinti/the-weather-forecasting.git
+git clone https://github.com/https://github.com/Johnmohamed2565/the-weather-forecasting.git
 Install the packages using the command npm install
 
 📙 Used libraries
